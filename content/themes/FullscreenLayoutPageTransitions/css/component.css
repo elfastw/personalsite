@@ -449,3 +449,21 @@ section.bl-expand .bl-icon-close {
 		width: 40%;
 	}
 }
+::-webkit-scrollbar {
+width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+background-color: rgba(255, 255, 255, 0.2);
+-webkit-border-radius: 10px;
+border-radius: 10px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+-webkit-border-radius: 10px;
+border-radius: 10px;
+background: #FFF;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+background: #DDD;
+}
