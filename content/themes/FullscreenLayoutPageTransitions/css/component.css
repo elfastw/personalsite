@@ -235,11 +235,13 @@ div.bl-panel-items > div > div {
 	display: block;
 	padding: 0;
 	border: 8px solid rgba(0,0,0,0.1);
+	font-size: 1.4em;
 }
 
 .bl-content > ul li a img {
 	display: block;
 	max-width: 100%;
+	font-size: 1.4em;
 }
 
 /* Panel Items */
