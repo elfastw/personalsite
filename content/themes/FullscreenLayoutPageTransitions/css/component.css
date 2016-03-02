@@ -191,7 +191,7 @@ div.bl-panel-items > div > div {
 	margin: 0 auto;
 	padding-bottom: 15px;
 	font-size: 1.7em;
-	line-height: 1.4;
+	line-height: 1.8;
 }
 
 .bl-content h2 {
@@ -252,7 +252,7 @@ div.bl-panel-items > div {
 }
 
 div.bl-panel-items > div > div {
-	width: 60%;
+	width: 100%;
 	margin: 0 auto;
 	opacity: 1;
 	bottom: 90px;
