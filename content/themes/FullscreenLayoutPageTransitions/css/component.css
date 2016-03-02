@@ -221,12 +221,14 @@ div.bl-panel-items > div > div {
 	list-style: none;
 	padding: 0;
 	margin: 0;
+	font-size: 1.4em;
 } 
 
 .bl-content > ul li {
 	display: inline-block;
 	width: 20%;
 	margin: 1%;
+	font-size: 1.4em;
 }
 
 .bl-content > ul li a {
