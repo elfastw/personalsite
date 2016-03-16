@@ -177,10 +177,10 @@ div.bl-panel-items > div > div {
 	pointer-events: none;
 	position: absolute;
 	top: 60px;
-	left: 30px;
-	right: 30px;
+	left: 15px;
+	right: 15px;
 	bottom: 30px;
-	padding: 0 20px;
+	padding:  10px;
 	overflow: hidden;
 	overflow-y: auto;
 }
