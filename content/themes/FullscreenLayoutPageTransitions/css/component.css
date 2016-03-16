@@ -115,7 +115,7 @@ a:hover {
 .bl-box h2 {
 	text-align: center;
 	margin: 0;
-	padding: 20px;
+	padding: 10px;
 	width: 100%;
 	font-size: 1.8em;
 	letter-spacing: 2px;
@@ -252,7 +252,7 @@ div.bl-panel-items > div {
 }
 
 div.bl-panel-items > div > div {
-	width: 75%;
+	width: 65%;
 	margin: 0 auto;
 	opacity: 1;
 	bottom: 90px;
